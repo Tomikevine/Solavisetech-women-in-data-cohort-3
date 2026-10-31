@@ -4,17 +4,17 @@ Solavisetech women in data program, abbreviated as SWID is a program made to emp
 
 ## My achievements by the end of the program
 
- ### Connections and networks:
+ ### Connections and networks: 
  I wish to have connections and networks with people in my professional field.
 
  ### Soft skills: 
  I wish to develop my communication skills. I am an introvert. I want to stop using introvertedness as a label. I want to grab opportunities when they come.
 
  ### Tech skills: 
- I want to master data science, machine learning, big data, and cloud computing for my professional world.
+ I want to master data science, machine learning and big data, for my professional world.
 
- ###Social media presence and professional skills:
+ ### Social media presence and professional skills: 
  I want to build a professional presence on LinkedIn. I want to know how to use professional tools like GitHub, Discord, and email professionally.
 
- ###My personal ambitions: 
+ ### My personal ambitions: 
  I want to help others overcome introversion to foster collective growth.
